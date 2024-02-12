@@ -1,1 +1,6 @@
-
+/// @author vectorized.eth (@optimizoor)
+/// @author Quit (@0xQuit)
+/// @author Michael Amadi (@AmadiMichaels)
+/// @author cygaar (@0xCygaar)
+/// @author Thomas (@0xjustadev)
+/// @author Harrison (@PopPunkOnChain)
